@@ -10,7 +10,7 @@ This project allows you to load, use, and interact with neural network models th
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dron3flyv3r/AI-Visualizer-Python-MK1.git
    cd AI-Visualizer-Python-MK1
    ```
 
