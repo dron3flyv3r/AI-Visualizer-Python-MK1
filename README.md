@@ -19,6 +19,27 @@ This project allows you to load, use, and interact with neural network models th
    pip install -r requirements.txt
    ```
 
+## Interactive CLI (Command Line Interface)
+
+We provide an easy-to-use interactive command line interface that requires no programming experience:
+
+1. Start the CLI by running:
+   ```bash
+   python cli.py
+   ```
+
+2. Use the arrow keys and number keys to navigate the menu:
+   - Load your model file
+   - View detailed model information
+   - Make predictions by entering input values
+   - Run example tests like the XOR gate
+
+The CLI provides a user-friendly interface with:
+- Clear menus and navigation
+- Detailed information about your model
+- Visual output for debugging
+- Error messages that are easy to understand
+
 ## User Guide
 
 ### Step 1: Train a model on aiviz.kasperlarsen.tech
